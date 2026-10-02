@@ -42,6 +42,9 @@ collections:
 
 # Keep template examples out of the published site until these sections are ready.
 exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
   - README.md
   - index_layout2.html
   - publications.html
